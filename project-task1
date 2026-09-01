@@ -1,1 +1,2 @@
-
+print("🤖 AI Rule-Based Chatbot")
+print("👋 Type 'bye' to end the chat")
