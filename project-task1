@@ -7,20 +7,20 @@ while True:
     if user_input in ["hello", "hi", "hey"]:
         print("Computer: Hello!👋 How can I help you?")
 
-    elif user_input in ["what is AI", "what's AI"]:
+    elif user_input in ["what is ai", "what's ai", "what is artificial intelligence"]:
         print("Computer: 🧠Artificial Intelligence (AI) is computer technology that allows machines to perform tasks needing human-like thinking, learning, and problem-solving")
         print("Computer: Example: Digital tools, like phone assistants")
 
-    elif user_input in ["what is a program", "what's a  program", "examples of program", "How a program works"]:
+    elif user_input in ["what is a program", "what's a  program", "examples of program", "how a program works"]:
         print("Computer: A computer program is a specific set of instructions that tells a computer exactly what to do. Think of it like a recipe where the computer is the chef, and the instructions are the steps to make a dish.")
         print("Computer: Input: You give the program data or commands ⌨️, Process: The program follows its coded instructions to think 🧠, Output: The program shows you the final result 🖥️")
         print("Computer: Web Browsers: Google Chrome 🌐 allows you to visit websites.Video Games: Minecraft 🎮 processes your button presses to move a character., Calculator: The calculator app 🧮 adds numbers together when you press equals., Media Players: Spotify 🎵 plays a specific audio file when you click play.")
 
-    elif user_input in ["what is ML", "what is Machine learning", "example of Ml"]:
+    elif user_input in ["what is ml", "what is machine learning", "example of ml"]:
         print("Computer:(🧠 Brain + 💻 Laptop) Machine Learning (ML) is a type of artificial intelligence that allows computers to learn from data and improve automatically, without a human writing specific code for every rule. Instead of being given step-by-step instructions, the computer is given examples (data) and finds its own rules.")
         print("Computer: Recommendations: Product/movie suggestions 🎬, Autocorrect: Text prediction 📱, Filters: Email spam blocking 📥, Biometrics: Face ID unlocking 🔓")
 
-    elif user_input in ["what is DL", "what is Deep learning", "example of Dl"]:
+    elif user_input in ["what is dl", "what is Deep learning", "example of dl"]:
         print("Computer: Deep Learning (DL) is a specialized subset of machine learning that mimics the human brain to process data and create patterns for decision-making. It uses Artificial Neural Networks stacked in multiple layers (which is why it is called deep) to learn from massive amounts of unstructured data without human help.")
         print("Computer: Folding: Protein structure prediction 🧬, Robotics: Autonomous humanoid movement 🤖, Composing: Artificial music creation 🎵")
 
