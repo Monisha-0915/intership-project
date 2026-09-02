@@ -20,7 +20,9 @@ while True:
         print("Computer:(🧠 Brain + 💻 Laptop) Machine Learning (ML) is a type of artificial intelligence that allows computers to learn from data and improve automatically, without a human writing specific code for every rule. Instead of being given step-by-step instructions, the computer is given examples (data) and finds its own rules.")
         print("Computer: Recommendations: Product/movie suggestions 🎬, Autocorrect: Text prediction 📱, Filters: Email spam blocking 📥, Biometrics: Face ID unlocking 🔓")
 
-
+    elif user_input in ["What is DL", "What is Deep learning", "Example of Dl"]:
+        print("Computer: Deep Learning (DL) is a specialized subset of machine learning that mimics the human brain to process data and create patterns for decision-making. It uses Artificial Neural Networks stacked in multiple layers (which is why it is called deep) to learn from massive amounts of unstructured data without human help.")
+        print("Computer: Folding: Protein structure prediction 🧬, Robotics: Autonomous humanoid movement 🤖, Composing: Artificial music creation 🎵")
 
     elif user_input in ["bye", "exist", "quit"]:
         print("Computer: Have a nice day! 😊 Goodbye!")
