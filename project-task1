@@ -28,6 +28,5 @@ while True:
         print("Computer: Have a nice day! 😊 Goodbye!")
         break
 
-
     else:
         print("Computer:😔 Sorry, I don't understand your question")
